@@ -1,5 +1,7 @@
 # Reproducing Simulations of AI-assisted Survey Data Collection
 
+[![](https://zenodo.org/badge/1151451204.svg)](https://doi.org/10.5281/zenodo.18507252)
+
 This repository contains code to reproduce the simulation study.
 
 ## Data
